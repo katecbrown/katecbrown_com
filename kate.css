@@ -1,0 +1,54 @@
+
+
+
+/*
+
+body {
+		background-image: url('images/flatbushrad.jpg');
+		background-repeat: repeat-y;
+		background-color: #fff;
+		margin-left: 375px;
+		font-size: large;
+	}
+
+h1, h2, h3, a {
+		font-family: Georgia; serif;
+		font-style: italic; 
+    	color: #333;
+    	font-weight: normal;
+		text-decoration: none;
+		margin-top: 10px;
+    }
+
+h1 {
+	font-size: 525%;
+	margin-bottom: 0px;
+}
+
+h2 {
+	margin-top: 0px;
+	font-size: 120%;
+	border-bottom: 1px dotted;
+}
+
+h3 {
+	font-size: 125%;
+}
+
+a:link, a:visited {
+	color: #805A0A;
+	}
+
+a:hover {
+	color: #805A0C;
+}
+
+
+p, ul {
+	font-size: 16px;
+	font-family: Arial; sans-serif;
+	font-style: normal; 
+    color: #000;
+    font-weight: normal;
+	text-decoration: none;
+}
