@@ -1,7 +1,7 @@
 body {
 	margin: auto;
 	padding: 0px 40px;
-	width: 550px;
+	width: auto;
 	font-size: large;
 	line-height: 1.5em;
 	font-family: Georgia; serif;
@@ -15,7 +15,7 @@ h1, h2 {
 h1 {
 	/* border-top: 5px solid #8A2612; */
 	border-bottom: 1px solid #333;
-	font-size: 4em;
+	font-size: 3em;
 	font-family: Georgia; serif;
 	font-weight: normal;
 	letter-spacing: -3px;
